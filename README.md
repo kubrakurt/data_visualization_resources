@@ -1,4 +1,4 @@
-# Veri Görselleştirme Kaynak
+<h1 align="center"> Veri Görselleştirme </h1>
 
 * [1. Violin Plot (Keman Grafiği)](https://github.com/kubrakurt/data_visualization_resource/blob/main/1_Violin_Plot_(Keman).ipynb)
 * [2. Density Plot (Yoğunluk Grafiği)](https://github.com/kubrakurt/data_visualization_resource/blob/main/2_Density_Plot_(Yogunluk).ipynb)
