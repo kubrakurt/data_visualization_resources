@@ -1,8 +1,8 @@
 <h1 align="center"> Veri Görselleştirme </h1>
 
-* [1. Violin Plot (Keman Grafiği)](https://github.com/kubrakurt/data_visualization_resource/blob/main/1_Violin_Plot_(Keman).ipynb)
-* [2. Density Plot (Yoğunluk Grafiği)](https://github.com/kubrakurt/data_visualization_resource/blob/main/2_Density_Plot_(Yogunluk).ipynb)
-* [3. Boxplot (Kutu Grafiği)](https://github.com/kubrakurt/data_visualization_resource/blob/main/3_Boxplot_(Kutu).ipynb)
+* [1. Violin Plot (Keman Grafiği)](https://github.com/kubrakurt/data_visualization_resource/blob/main/Veri_Gorsellestirme/1_Violin_Plot_(Keman).ipynb)
+* [2. Density Plot (Yoğunluk Grafiği)](https://github.com/kubrakurt/data_visualization_resource/blob/main/Veri_Gorsellestirme/2_Density_Plot_(Yogunluk).ipynb)
+* [3. Boxplot (Kutu Grafiği)](https://github.com/kubrakurt/data_visualization_resource/blob/main/Veri_Gorsellestirme/3_Boxplot_(Kutu).ipynb)
 
 ## Kaynaklar
 
