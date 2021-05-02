@@ -6,6 +6,17 @@
 * # [Renk Paletleri](https://github.com/kubrakurt/data_visualization_resources/tree/main/Renk%20Paletleri)
   * [Rosé Pine for Matplotlib](https://github.com/kubrakurt/data_visualization_resources/blob/main/Renk%20Paletleri/1%20-%20Rosé%20Pine%20for%20Matplotlib.ipynb)
 
+* # Projeler
+  * [Basit Doğrusal Regresyon Görselleştirme](https://github.com/kubrakurt/machine_learning_resources/blob/main/1%20-%20Doğrusal%20Regresyon%20Modelleri/1%20-%20Basit%20Doğrusal%20Regresyon.ipynb)
+  * [CART Model Görselleştirme](https://github.com/kubrakurt/machine_learning_resources/blob/main/2%20-%20Doğrusal%20Olmayan%20Regresyon%20Modelleri/4%20-%20CART.ipynb)
+  * [Eksik Veri Görselleştirme](https://github.com/kubrakurt/data_analysis_resources/blob/main/Örnek%20Analizler/Eksik%20Veri%20Analizi.ipynb)
+  * [Hiyerarşik Kümeleme Modeli Görselleştirme](https://github.com/kubrakurt/machine_learning_resources/blob/main/4%20-%20Denetimsiz%20Öğrenme/2%20-%20Hiyerarşik%20Kümeleme.ipynb)
+  * [Karışık Veri Görselleştirme](https://github.com/kubrakurt/data_analysis_resources/blob/main/Egzersizler/9%20-%20Pandas%20Egzersizi.ipynb)
+  * [K-Means Model Görselleştirme](https://github.com/kubrakurt/machine_learning_resources/blob/main/4%20-%20Denetimsiz%20Öğrenme/1%20-%20K-Means.ipynb)
+  * [Korelasyon Matrisi](https://github.com/kubrakurt/machine_learning_resources/blob/main/Öznitelik%20Seçimi/Korelasyon%20Matrisi.ipynb)
+  * [Lasso Regresyon Görselleştirme](https://github.com/kubrakurt/machine_learning_resources/blob/main/1%20-%20Doğrusal%20Regresyon%20Modelleri/4%20-%20Lasso%20Regresyon.ipynb)
+  * [Veri Analizinde Görselleştirme](https://github.com/kubrakurt/data_analysis_resources/blob/main/Örnek%20Analizler/Python%20ile%20Veri%20Analizi.ipynb)
+
 ## Kaynaklar
 
 * [Seaborn](https://seaborn.pydata.org/generated/seaborn.violinplot.html)
