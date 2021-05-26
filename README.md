@@ -1,6 +1,6 @@
 <h1 align="center"> Veri Görselleştirme </h1>
 
-<p align="left"> <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" /> </p>
+<p align="left"> <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.mp4" /> </p>
 
 * # [Veri Görselleştirme](https://github.com/kubrakurt/data_visualization_resources/tree/main/Veri%20Görselleştirme)
   * [1. Violin Plot (Keman Grafiği)](https://github.com/kubrakurt/data_visualization_resource/blob/main/Veri%20G%C3%B6rselle%C5%9Ftirme/1%20-%20Violin%20Plot.ipynb)
