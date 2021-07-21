@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif" /> </p>
 
 * # Örnek Veri Görselleştirmeleri
-  * [Su Kalitesi](https://github.com/kubrakurt/machine_learning_resources/blob/main/Örnek%20Projeler/Su%20Kalitesi/su-kalitesi.ipynb)
+  * [Su Kalitesi](https://www.kaggle.com/kubrakurt/su-kalitesi?scriptVersionId=68655683)
 
 * # [Veri Görselleştirme](https://github.com/kubrakurt/data_visualization_resources/tree/main/Veri%20Görselleştirme)
   * [1. Violin Plot (Keman Grafiği)](https://github.com/kubrakurt/data_visualization_resource/blob/main/Veri%20G%C3%B6rselle%C5%9Ftirme/1%20-%20Violin%20Plot.ipynb)
